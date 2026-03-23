@@ -1,26 +1,31 @@
-# movie-explorer
-A web app to search and explore movies using OMDB API
-# 🎬 Movie Explorer Web App
+# 🛍️ Product Explorer Web App
 
 ## 📌 Description
 
-This project is a web application that allows users to search for movies and view their details such as title, poster, and release year using the OMDB API.
+This project is a web application that allows users to browse and explore products using a public API. Users can view product details such as title, price, category, and images.
 
 ## 🚀 Features
 
-* Search movies by name
-* Display movie details dynamically
+* Display products dynamically
+* Search products by name
+* Filter products by category
+* Sort products by price
 * Responsive user interface
 
 ## 🔗 API Used
 
-OMDB API (https://www.omdbapi.com/)
+Fake Store API (https://fakestoreapi.com/)
 
 ## 🛠️ Technologies Used
 
 * HTML
 * CSS
 * JavaScript (Fetch API)
+
+## ▶️ How to Run
+
+1. Clone the repository
+2. Open index.html in a browser
 
 ## 📅 Milestone Plan
 
